@@ -14,5 +14,6 @@ published: true
 * [Psych forum](http://www.psychforums.com/avoidant-personality/topic1680.html)
 * [Yahoo AvPD group](https://beta.groups.yahoo.com/neo/groups/Avoidant/info?referrer=depression-anxiety) - you need to join to see the threads
 * [Social Phobia World](http://www.socialphobiaworld.com/avoidant-personality-disorder-forum/)
+* Psychologist Kati Morton [talks about](https://youtu.be/HQY6HgES9m0) treatments
 
 I'm still adding to this list.
