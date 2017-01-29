@@ -2,7 +2,7 @@
 layout: post
 permalink: /about/index.html
 title: Living with Avoidant Personality Disorder
-description: This site is about my personal experiences with Avoidant Personality Disorder (AvPD), a costly and in many cases debilitating condition of one's mental outlook.
+description: Welcome to my site about my personal experiences with Avoidant Personality Disorder (AvPD), a costly and in many cases debilitating condition of one's mental outlook.
 tags: [about]
 image:
   feature: depression.jpg
@@ -16,7 +16,7 @@ In my life, and in moments when I've suffered the most from my condition, I've o
 
 The worst part is that, like the detective, it's me who pays the price. The detective may not have been aware of his actions and feelings, but it was he who had to ride the elevator down.
 
-I created this blog to document my perceptions and sufferings. It's a lonely exercise, much like my condition, but I'm at a stage in my life where I'm able to understand some things. I've been through years of therapy, to little avail, and don't feel it would be useful (unless I were to find a therapist specializing in this condition).
+I created this blog to document my perceptions and sufferings. It's a lonely exercise, much like my condition, but I'm at a stage in my life where I'm able to understand and express some things. I've been through years of therapy, to little avail, and don't feel it would be useful (unless I were to find a therapist specializing in this condition).
 
 I'm given to understand the only hope for people like me is to learn to cope with the disorder, as [I'll never be "cured"](https://en.wikipedia.org/wiki/Avoidant_personality_disorder) (a prognosis I agree with based on my experiences).
 
