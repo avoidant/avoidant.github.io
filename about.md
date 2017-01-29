@@ -26,4 +26,4 @@ Let me also state I consider myself somewhat highly functioning - I'm able to ge
 
 In contrast my brother (who has similar symptoms) is unable and unwilling to hold a job and lives entirely as a hermit does, with no social contact with anyone whatsoever.
 
-I hope this blog will serve the purpose of helping me analyze and cope better with my disorder, and that along the way some will also find it useful.
+I hope this blog will serve the purpose of helping me analyze and cope better with my disorder, and that along the way someone might find it useful
