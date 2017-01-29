@@ -8,7 +8,7 @@ image:
   feature: depression.jpg
 ---
 
-There's a scene at the end of a long-forgotten movie, Angel Heart, where the devil schools a private detective about his true identity and the things he did. The movie closes with the detective's long ride down to hell in an elevator.
+There's a scene at the end of a long-forgotten movie, "Angel Heart," where the devil schools a private detective about his true identity and the things he did. The movie closes with the detective's long ride down to hell in an elevator.
 
 The whole film is about figuring out the strange happenings and coincidences occurring during the investigation. In the end, the detective's true self and actions are revealed, to his disbelief.
 
