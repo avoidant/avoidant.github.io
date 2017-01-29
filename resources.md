@@ -3,7 +3,9 @@ layout: post-no-feature
 permalink: /resources
 title: Resources
 description: Here is a handful of resources on personality disorders.
-tags: [resources]
+tags:
+  - resources
+published: true
 ---
 
 * [Wikipedia article](https://en.wikipedia.org/wiki/Avoidant_personality_disorder) on avoidant personality disorder
@@ -11,5 +13,6 @@ tags: [resources]
 * [Reddit thread](https://www.reddit.com/r/AvPD/) on AvPD. Generally many such forums don't feature much active discussion but this is an exception
 * [Psych forum](http://www.psychforums.com/avoidant-personality/topic1680.html)
 * [Yahoo AvPD group](https://beta.groups.yahoo.com/neo/groups/Avoidant/info?referrer=depression-anxiety) - you need to join to see the threads
+* [Social Phobia World](http://www.socialphobiaworld.com/avoidant-personality-disorder-forum/)
 
 I'm still adding to this list.
