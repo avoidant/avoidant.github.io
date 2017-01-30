@@ -61,8 +61,13 @@ prose:
       _posts:
         - name: "layout"
           field:
-            element: "text"
+            element: "hidden"
             value: "post-no-feature"
+        - name: "published"
+          field:
+            element: "checkbox"
+            label: "Published"
+            value: false
         - name: "title"
           field:
             element: "text"
@@ -73,20 +78,15 @@ prose:
             element: "text"
             label: "Description"
             value: ""
-        - name: "published"
-          field:
-            element: "checkbox"
-            label: "Published"
-            value: false
         - name: "category"
           field:
             element: "text"
-            label: "Categories"
+            label: "Category"
             value: ""
         - name: "tags"
           field:
             element: "text"
-            label: "Categories"
+            label: "Tags (Comma Separated)"
             value: ""
 
 include: [".htaccess"]
