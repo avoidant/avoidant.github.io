@@ -80,7 +80,7 @@ prose:
             value: ""
         - name: "category"
           field:
-            element: "text"
+            element: "hidden"
             label: "Category"
             value: "article"
         - name: "tags"
