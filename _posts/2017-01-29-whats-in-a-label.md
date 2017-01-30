@@ -3,7 +3,7 @@ layout: post-no-feature
 title: "What's in a label"
 description: "During my years as a client of the mental health profession, there was an obsession with withholding my diagnosis. But is this a good thing?"
 published: true
-category: articles
+category: article
 tags: [diagnosis, psychoanalysis, Jung]
 ---
 The mental health community likes to avoid labels. I remember my first sessions with a psychotherapist:

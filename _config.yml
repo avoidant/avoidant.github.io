@@ -65,12 +65,12 @@ prose:
             value: "post-no-feature"
         - name: "published"
           field:
-            element: "checkbox"
+            element: "hidden"
             label: "Published"
             value: false
         - name: "title"
           field:
-            element: "text"
+            element: "hidden"
             label: "Title"
             value: ""
         - name: "description"
@@ -82,7 +82,7 @@ prose:
           field:
             element: "text"
             label: "Category"
-            value: ""
+            value: "article"
         - name: "tags"
           field:
             element: "text"

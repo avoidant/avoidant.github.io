@@ -3,8 +3,8 @@ layout: post-no-feature
 title: "How I got started with this blog"
 description: "This blog is a product of years of life experience, defeats and pain. But it started with a simple disovery. "
 published: true
-category: articles
-tags: []
+category: article
+tags: [diagnosis]
 ---
 
 Today I'm in my mid-forties.  Since my first day of therapy at age 20, I've been trying to figure out what ails my mind. There's this "thing": an independent, almost living entity with a mind separate from my own, that has a tendency to ravage social situations I find myself in.
