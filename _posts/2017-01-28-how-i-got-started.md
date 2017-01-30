@@ -2,6 +2,7 @@
 layout: post-no-feature
 title: "How I got started with this blog"
 description: "This blog is a product of years of life experience, defeats and pain. But it started with a simple disovery. "
+published: true
 category: articles
 tags: []
 ---

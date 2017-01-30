@@ -2,6 +2,7 @@
 layout: post-no-feature
 title: "What's in a label"
 description: "During my years as a client of the mental health profession, there was an obsession with withholding my diagnosis. But is this a good thing?"
+published: true
 category: articles
 tags: [diagnosis, psychoanalysis, Jung]
 ---
@@ -35,7 +36,7 @@ Strangest of all was her relationship to money. The monthly cost to me was aroun
 
 I would attend the sessions, and talk openly about anything that came to mind. My parents and childhood naturally came up more often. Of all the therapists I ever met, she was by far the most reluctant to reveal her thoughts on my dilemma. She stated that if she gave away her diagnosis I would be reluctant to work through my problems to move forward. At the same time she always insisted I "put my cards on the table" and express fully my own thoughts and feelings.
 
-Along the way I managed to learn a few things about my condition from hints she dropped. She mentioned my issue was lifelong (even using this as a bargaining chip when I tried to leave). She stated I had some narcissistic characteristics and pointed out examples. Later in life, when looking at lists of AvPD symptoms, I could identify some of her other hints (though at the time her tips were practically useless as I didn't have any perspective to judge what she was talking about - mainly from her lack of attempts to provide perspective or frame my issues).
+Along the way I managed to learn a few things about my condition from hints she dropped. She mentioned my issue was long lasting (even using this as a bargaining chip when I tried to leave). She stated I had some narcissistic characteristics and pointed out examples. Later in life, when looking at lists of AvPD symptoms, I could identify some of her other hints (though at the time her tips were practically useless as I didn't have any perspective to judge what she was talking about - mainly from her lack of attempts to provide perspective or frame my issues).
 
 Over time I began to lose trust in her methods and seriously contemplated leaving. I had left twice before in previous years but found my anxiety too strong for me alone to handle, so came back. This time however was different. I was in my mid-thirties by then, and started equating leaving with childhood maturity and independence (she often spoke of our bond as mother-child, so why not keep this analogy). Two weeks before our last session, I announced my departure. She seemed reluctant for me to go, and over the next sessions emphasized the work we needed to do and how I would suffer lifelong consequences if I didn't stay. At the end of the last session, I simply said goodbye and exited.
 
