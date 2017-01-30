@@ -12,7 +12,7 @@ GEM
       addressable (~> 2)
     ffi (1.9.17)
     forwardable-extended (2.6.0)
-    jekyll (3.3.1)
+    jekyll (3.4.0)
       addressable (~> 2.4)
       colorator (~> 1.0)
       jekyll-sass-converter (~> 1.0)
@@ -41,12 +41,9 @@ GEM
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
-    multi_json (1.12.1)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     public_suffix (2.0.5)
-    pygments.rb (1.1.1)
-      multi_json (>= 1.0.0)
     rack (1.6.5)
     rake (12.0.0)
     rb-fsevent (0.9.8)
@@ -67,7 +64,6 @@ DEPENDENCIES
   jekyll
   jekyll-assets
   jekyll-minibundle
-  pygments.rb
   rake
 
 BUNDLED WITH

@@ -16,4 +16,3 @@ published: true
 * [Social Phobia World](http://www.socialphobiaworld.com/avoidant-personality-disorder-forum/)
 * Psychologist Kati Morton [talks about](https://youtu.be/HQY6HgES9m0) treatments
 
-I'm still adding to this list.
