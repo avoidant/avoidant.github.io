@@ -1,6 +1,6 @@
 ---
 category: article
-published: false
+published: true
 layout: post-no-feature
 title: Genesis of a disorder
 description: 'People''s paths to AvPD may not be the same, but they''re similar.'
