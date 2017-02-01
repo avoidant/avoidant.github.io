@@ -1,6 +1,6 @@
 ---
 category: article
-published: false
+published: true
 layout: post-no-feature
 title: Exposure and other challenges
 description: >-
@@ -29,5 +29,3 @@ Despite their lack of attention it felt oddly relieving, if exhausting, to be in
 It feels strange to say this but somehow what I just described has turned out to be my entire life. How and why, I don't know. Unlike other people (maybe), when I think of my true self there's no hope or a bright future associated with it. Only dusk and tears. For me, courage means to acknowledge this fucked up person inside of me whom I cannot let out. Like a lot of boys, I too dreamed of going to the big war and being brave, but now I recognize what my own badge of courage is. It's simply struggling to be myself every day. When there's no hope and only failure is certain, and you insist on feeling the pain of being ashamed and socially awkward thoughout life without knowing why it's all happening, then you are a courageous person.
 
 Just for the record that's not me. I'm *not* the guy to do that. But I think anyone who can do that is a fucking saint.
-
-
