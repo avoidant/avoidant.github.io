@@ -10,7 +10,7 @@ I've always been overwhelmed by certain strong personal feelings and thoughts. B
 
 This has lead to a bifurcation of my self. Having a single self or identity would mean I have fully processed whatever came into my mind at an earlier age in order to "integrate" it. I understand this is how the vast majority of people develop a healthy personality. How nice.
 
-By writing this blog I'm trying to integrate my own uncomfortable feelings and truths. I want to describe what makes me most uncomfortable and understand it through the writing process. When not writing here, I'm often thinking of these memories.
+By writing this blog I'm trying to integrate my own uncomfortable feelings and truths. I want to describe what makes me most uncomfortable and understand it through the writing process. When not writing here, I'm often thinking of them.
 
 In trying to work through my issues, I've rediscovered some childhood memories and how indifferent the world seemed to me at the time, as well as how not even my parents gave a shit about my fate. For most of my school years, I also got confirmation of my lack of worthiness from just about every adult in my life (at least from teachers and many family members). From the time I switched schools at age 10 to my last year in a public school (age 13), I was bullied and put down by someone nearly every day. I had few friends and school felt like a penetentiary. 
 
@@ -56,4 +56,4 @@ Writing about this and feeling the full extent of any associated feelings is als
 
 It was clear from the very start of my life that I am, and will always remain alone. I grew to appreciated this as an adult, finding it hard to keep my fear and embarassment in check when working with people (I have to compensate it by believing I'm someone else, or simply better than othrs). 
 
-Inside of me, within my deepest self, I know I want to bring good to the world, despite being hobbled in such an unwelcome way. This may sound trite and overused, but I want to leave the world a better place than I found it. I'm sorry if, through my cruelty, I ever hurt someone, and I really wish I was capable of joining the rest of humanity without feelings of being unwothy or fake.
+Inside of me, within my deepest self, I know I want to bring good to the world, despite being hobbled in such an unwelcome way. This may sound trite and overused, but I want to leave the world a better place than I found it. I'm sorry if, through my cruelty, I ever hurt someone, and really wish I was capable of joining the rest of humanity without feelings of being unwothy or fake.
