@@ -4,8 +4,8 @@ published: true
 layout: post-no-feature
 title: On the blindfold and taking it off
 description: >-
-  Getting through life entails a high dose of denial, but can I take off the
-  blindfold?
+  Getting through life entails a high dose of denial, but can the blindfold
+  really be taken off?
 tags: denial
 ---
 Imagine being stricken with something that you not only don't understand, but can't even see. Something bothers you so much you start needing to imagine you're someone else, someone better. Soon you start to think those fantasies are actually real and you forget the wound. You thought you had it together and build an entire worldview on sand. Until something reaches out of you, a big grey claw, at an inopportune moment to assault that worldview and embarass the living daylights out of you. Maybe this happens when you're at lunch with your boss and let slip a pointed insult at him, jabbing him in his most sensitive area. He looks at you stunned. You quickly glance at him and then back at your plate. You can feel your face growing red. Yes indeedy... that comment came straight out of your mouth and none other.
