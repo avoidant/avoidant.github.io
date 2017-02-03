@@ -6,11 +6,11 @@ title: How to properly scare yourself
 description: Feeling the full brunt of a condition is a hard but necessary exercise.
 tags: 'exposure, social phobia, fear'
 ---
-> Philosophy triumphs easily over past and future evils; but present evils triumph over it. - François de La Rochefoucauld, Maxim 22
-
 Since starting this blog I've decided to no longer deny my condition and pretend to be someone else. Rather than thinking I'm this great guy who went to a military school for high school and learned positive values along the way, it seems I'm still the puny weakling from my dreadful childhood years. It's like I never grew up, but remain the same stunted person despite being in my mid-forties. Sad.
 
 This fact alters my worldview considerably, but at its core is the question of who am I. I don't really know my identity. I'm not supposed to be anyone (which is a relief), but in social situations there's no longer a persona to identify with. Every time one tries to pop into my mind I fight it away. 
+
+> Philosophy triumphs easily over past and future evils; but present evils triumph over it. - François de La Rochefoucauld, Maxim 22
 
 Today I decided to go out with some terrible pants and shoes. There's a set of grey jeans I absolutely hate because the fabric around the lower legs seem all droopy and  melts a little around the shoe. I don't understand if it's because these are old jeans or they're made that way, but I hate to see myself in the mirror with them. Then I wore a mismatched pair of shoes (mismatched with the jeans that is). I've seen people staring at those jeans on previous occasions and wondered what got the attention till I looked at them in the mirror.
 
