@@ -2,7 +2,7 @@
 category: article
 published: true
 layout: post-no-feature
-title: The cost of blindness
+title: On the blindfold and taking it off
 description: >-
   Most of my problem with AvPD was the simple fact I couldn't even see it.
   Denial of your true self always has high costs.
