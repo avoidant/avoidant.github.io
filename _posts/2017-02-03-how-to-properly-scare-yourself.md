@@ -1,6 +1,6 @@
 ---
 category: article
-published: false
+published: true
 layout: post-no-feature
 title: How to properly scare yourself
 description: Feeling the full brunt of a condition is a hard but necessary exercise.
@@ -27,5 +27,3 @@ At any rate, I left our apartment and walked down the street in my crappy jeans.
 I stood next to the bus stop in a conspicuous place. Next to me was a group of teenage boys and I spotted one of them with his eyes fixated towards the ground right in the direction of my lower legs. He stared at it, not taking his eyes away. I noticed his glance and quickly looked away, then looked back. He was still staring. Terror started to well up in me but as I bore the attention, the fear turned into a kind of muffled anxiety. It was hard to do it, but I straightened my back and tried to stand tall. When I looked back, he was talking with his friends. I glanced at him several times but he never once looked back in my direction. It was as if I wasn't important enough to merit more attention, and I felt relieved by this.
 
 He too was wearing grey jeans, but his looked better and the shoes were better matched. Later, I walked through the thick of downtown, among the crowd, knowing my horrible jeans would attract attention. I looked at different oncoming people and a few looked at my face but no one looked at my lower legs. After a while I forgot my jeans and somehow got used to them. I'm back home now but the thought of going out with them again doesn't bother me.
-
-
