@@ -40,7 +40,7 @@ I actually imagined it this morning as I slowly woke up. The truck in the rain. 
 
 This is why I need to be blind, need to go through life with my eyes barely open (concerning my plight). The lamp I carry must necessarily be turned very dim to only barely illuminate the rocky walls around me. Being with others, especially strangers, is an unimaginably frightful experience, one I'll never learn to cope with. Yet I need them.
 
-You see, I cannot explain my reality in any conventional sense. It's all puzzles and riddles. My life is a mystery wrapped in a riddle inside an enigma (to paraphrase Churchill). I am incapable of explaining the thing that has destroyed my life and no one but me can really understand it. I can only try to understand it but it's amazingly difficult.
+You see, I cannot explain my reality in any conventional sense. It's all puzzles and riddles. My life is a mystery wrapped in a riddle inside an enigma (to paraphrase Churchill). I am incapable of explaining the thing that afflicts me and no one but me can really understand it. I can only try to understand it but it's amazingly difficult.
 
 It reminds me of a retiree I read about one or two years ago. He had this strange, inexplicable allergy to WiFi radio waves, and could only sleep in places that didn't have any. Such places are getting few and far between, obviously. What a plight, to be born with such a condition. Was he made for the world he lives in?
 
