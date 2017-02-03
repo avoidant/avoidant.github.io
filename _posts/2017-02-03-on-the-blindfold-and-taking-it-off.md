@@ -44,4 +44,4 @@ You see, I cannot explain my reality in any conventional sense. It's all puzzles
 
 It reminds me of a retiree I read about one or two years ago. He had this strange, inexplicable allergy to WiFi radio waves, and could only sleep in places that didn't have any. Such places are getting few and far between, obviously. What a plight, to be born with such a condition. Was he made for the world he lives in?
 
-_Postscript: If all this sounds dreadful I am sorry. But just to be clear, I have no adverse thoughts concerning my own life. This is all an exercise for me, much like Marcus Aurelius' "Meditations." My goal is to get better, but I need to face this stuff.
+_Postscript: If all this sounds dreadful I am sorry. But just to be clear, I have no adverse thoughts concerning my own life. This is all an exercise for me, much like Marcus Aurelius' "Meditations." My goal is to get better, but I need to face this stuff._
