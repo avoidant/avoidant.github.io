@@ -25,10 +25,8 @@ I created this blog to document my perceptions and sufferings. It's a lonely exe
 
 I'm given to understand the only hope for people like me is to learn to cope with the disorder, as [I'll never be "cured"](https://en.wikipedia.org/wiki/Avoidant_personality_disorder) (a prognosis I agree with based on my experiences).
 
-Let me state for the record that I'm self-diagnosed, and it could well be I have a similar, but different condition. I'll reveal in this blog why I now believe I have this condition, and how AvPD symptoms that I've read about are strikingly close to my own.
-
-Let me also state I consider myself somewhat highly functioning - I'm able to get out and hold a job (for how long I can suffer through it is another question). People who meet or know me consider me an introvert but would be shocked to learn I have a personality disorder of this magnitude (as my wife was shocked).
+I consider myself somewhat highly functioning - I'm able to get out and hold a job (for how long I can suffer through it is another question). People who meet or know me consider me an introvert but would be surprised to learn it's actually a personality disorder.
 
 In contrast my brother (who has similar symptoms) is unable and unwilling to hold a job and lives entirely as a hermit does, with no social contact with anyone whatsoever.
 
-I hope this blog will serve the purpose of helping me analyze and cope better with my disorder. It's mainly therapy for my own purposes and can be intense. I don't imagine it's of interest except for those who may share my condition.
+I hope this blog will serve the purpose of helping me analyze and cope better with my disorder. It's mainly therapy for my own purposes and can be intense. I don't imagine it's of interest except for those sharing this condition.
