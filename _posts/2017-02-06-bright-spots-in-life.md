@@ -24,7 +24,7 @@ A "bright spot" in my life is any occasion when I felt accepted by adults and pe
 
 As I was unpacking my suitcase on the bunk, one kid said out loud "He looks like a dork," and walked out. On the one hand this was no different to people's reactions to me in any setting, but on the other, to hear it expressed in such a way was nearly unbearable.
 
-Kids were like this in the South where I grew up. There were fights nearly every day after school, somewhere off campus. I didn't understand the prevailing aggression and didn't want to be a part in it, yet it came looking for me, to prove that I'm a worm with no backbone, and thus deserved to be brutalized.
+Kids were like this in the South where I grew up. There were fistfights nearly every day after school, somewhere off campus. I didn't understand the prevailing aggression and didn't want to be a part in it, yet it came looking for me, to prove that I'm a worm with no backbone, and thus deserved to be brutalized.
 
 (When I think about it, the world isn't much different today as an adult. Do people give a flying fuck about me? Not really - with the exception of my wife and daughter. Maybe it doesn't show its agression quite so nakedly, but in the end it does want me to just die off.)
 
