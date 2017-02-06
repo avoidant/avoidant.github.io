@@ -3,6 +3,8 @@ category: article
 published: false
 layout: post-no-feature
 title: Are avoidants narcisstic?
+description: There is a link between avoidance and narcissism. Here is mine.
+tags: 'narcissism, avoidance'
 ---
 Anyone who's read about avoidant personality disorder to an extent knows there may be a link (however tenuous) between avoidance and narcissism. I've read some accounts claiming that an avoidant is a kind of "inverted" narcissist, who is enraged the world doesn't accord him or her their due attention. 
 
@@ -21,8 +23,22 @@ Mine is but to do or die.
 
 As a four- and five-year-old, I indeed had behaviorial problems, being diagnosed as "hyperactive" with an inability to sit still. My parents never gave me pills for this, but my father insisted on a new regimen of standing at attention when he spoke and saying "sir." I willingly complied with all this because I appreciated his attention and saw it as a way to get closer to him. 
 
-The hell of all this was, I never outgrew this. Sure, he stopped demanding I act like a soldier later in life. But my compliance in a higher authority is now ingrained, to my own detriment.
+The hell of all this was, I never outgrew this. Sure, he stopped demanding I act like a soldier later in life. But my compliance to a higher authority is now ingrained, to my own detriment. Today I cannot properly stand up for myself, and always feel overemotional in any sincere disagreement with someone.
+
+During my young adult life, this message was reinforced by my feeling that society doesn't want to hear about my issues, which are trivial and should be ignored (or at least, you should find a good shrink to just blab your problems away at). Don't ask me specifically how I got this message, but it seemed to be in everything I perceived.
 
 ## Attracting nacissists
 
-But the idea there's an association with narcissism is more than 
+But the idea there's an association with narcissism is more than all this. You see, I attract narcissists like roaches to stale food. My father was a very self-absorbed man who often wasn't around, and today I believe he had narcissistic personality disorder. In fact, I'm often shocked by his double life. Outside the home, he was a well-respected doctor with plenty of admirers. He gave his all for patients and peers alike, and at his funeral I met many a person (for the first time) who told me how high an opinion they had of him. 
+
+But he had no interest in mixing this world that rewarded him so handsomely with that of his private one. At home, he acted like a tyrant with explosive rage in his younger years, only to mellow with age (but keeping an aristocratic air nonetheless). He belittled anything I was interested in and his only interest in me or my day didn't go beyond a formulaic "how was school today" question at the dinner table. Towards the end of his life I withdrew and moved overseas to found my own life, not needing his "help" or counsel. 
+
+He wanted me to move back to the US for financial reasons and when I thought this notion absurd we started to struggle. He threatened to take me out of his will and predicted I would kill myself. He threw every personal item in my bedroom away (without my asking him to) and didn't talk to me for a year. Afterwards we talked but I always noticed a sad, blasé attitude in him, like resigned to whatever fate would occur. He then ended his own life.
+
+Later I read how this all fits with the notion of "narcissitic supply" from obsequious followers, and what happens subsequently. One may say that my father ended his days in a spectacular decompensation episode.
+
+Till the end of his life he adamantly denied any role in my or my brother's life difficulties, but demanded I fulfill his wishes. He was truly no friend but a stranger, an utter mystery that to this day will never be unraveled, and whose memory will accordingly be treated.
+
+I'm mentioning this to give some perspective on my current life. I would identify some of the people for whom I've worked as narcissists. In fact, I can even enumerate the stages. As I am a masterful practioner in supplying the narcissist's ego, they seem to love this about me and want to tighten the working relationship. Eventually though I uncover their incompetencies and decide I don't want to carry on working toward their glory for scant reward, and withdraw (i.e., quit). This is followed by a period of decompensation, where they forswear all further contact with me, and even put me down verbally (which is part of the whole charade).
+
+One has to understand that many narcissists truly are talented people, in some sense. My father was a talented physician. The narcissists who hired me were talented in sales. Unfortunately and eventually they either began to demand more than I could reasonably give, or their promised vs. actual rewards were not in sync. Either way, the act of "growing up" for me was gaining the ability to recognize not only my own behavior in work relationships, but the other's as well.
