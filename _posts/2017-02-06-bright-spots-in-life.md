@@ -30,7 +30,7 @@ Kids were like this in the South where I grew up. There were fights nearly every
 
 I didn't run away from camp but had to bear it. Our cabin had a "counselor," a young adult who was very inclusive and made sure to talk with each boy to understand their problems and issues. The camp was located in a peaceful setting in the woods and eventually I could tell him about myself. I don't remember our walk but know that he mostly listened. Later our cabin did group bible reading exercises and other activities, such as acting in skits as a group.
 
-It's easy for me today to see the deep role of Christianity in American social life. It's the glue that brings communities together, and that was just as true then as today. Christianity preaches tolerance and inclusion of the weak, and for this reason I was included in the group despite my shyness. It seemed people just accepted me, and the phenomenon was as inexplicable as it was wonderful. I felt good for the first time in a very long time, and ended up loving the whole experience and engaging in many different activities.
+It's easy for me today to see the deep role of Christianity in American social life. It's the glue that brings communities together, and that was just as true then as today. Christianity preaches tolerance and inclusion of the weak, and for this reason I was included in the group despite my shyness. It seemed people just accepted me (and I accepted them), and the phenomenon was as inexplicable as it was wonderful. I felt good for the first time in a very long time, and ended up loving the whole experience and engaging in many different activities.
 
 ## Paradise lost
 
