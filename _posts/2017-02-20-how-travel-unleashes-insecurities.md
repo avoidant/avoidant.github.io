@@ -38,4 +38,4 @@ In earlier entries I spoke of the feelings of shame of my childhood, and how my 
 
 * **core**. This encapsulates the feelings and perceptions of my existance. When I'm sitting in an airline cabin and feel hostile looks from others, my core reacts with fear and revulsion. I guess you might call it my personality, and it's a real mess, believe me. I'm only now beginning to pick it apart in my mid-forties. I may never live to resolve the mess, but it holds the key to everything.
 
-If only I could have come to this understanding during my years of therapy... better late than never.
+If only I could have come to this understanding during my years of therapy... perhaps it's better late than never.
