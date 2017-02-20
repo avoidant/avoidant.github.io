@@ -1,6 +1,6 @@
 ---
 category: article
-published: false
+published: true
 layout: post-no-feature
 title: How travel unleashes insecurities
 description: >-
@@ -41,7 +41,3 @@ shell. I am encased in a shell reflecting a certain ethnicity and socio-economic
 core. This encapsulates the feelings and perceptions of my existance. When I'm sitting in an airline cabin and feel hostile looks from others, my core reacts with fear and revulsion. I guess you might call it my personality, and it's a real mess, believe me. I'm only now beginning to pick it apart in my mid-forties. I may never live to resolve the mess, but it holds the key to everything.
 
 If only I could have come to this understanding in my years of therapy, but it's better late than never.
-
-
-
-
