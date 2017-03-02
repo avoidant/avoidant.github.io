@@ -5,7 +5,7 @@ layout: post-no-feature
 title: Getting in touch with sadness
 description: >-
   What lies at the core of our being determines who we really are. In my case
-  it's an ocean of sadness.
+  it's sadness.
 tags: 'core, sadness, expose, tolerate'
 ---
 Recently I had to meet with a potential client (sales meeting). It was actually I who proposed the meeting. I've done plenty of selling via e-mail but always find a face-to-face meeting a compelling opportunity to size each other up.
@@ -28,4 +28,6 @@ As I thought about this fascinating life, I realized that what I have are wounds
 
 At the core of the wound is sadness. This is deep within my being and defines who I am. A few people have pointed this out from time to time, saying I "often look sad." Well, I am sad, as a person. And it's not just sadness for it's own sake. It has the quality of some horrible pain or rejection that I don't understand. This is why my issues have lingered for so long in life, and why I haven't been able to get proper treatment. 
 
-The actual meeting with the guy went without a hitch and he expressed interest in my services. After the meeting, I wondered what all the fuss inside me had been about. Nevertheless I experienced pain throughout the rest of the day, as if I had irritated my wound, perhaps poked a stick in it. I guess my perpetual sadness reminds me of my humanity, but my God does it make me miserable. No wonder I tried to shut it out all these years. An open question is what to do with it. The therapists talk about tolerance. OK fine, but be aware that when the core of your being is perpetual pain and sadness, it can be quite a bleak life indeed.
+The actual meeting with the guy went without a hitch and he expressed interest in my services. After the meeting, I wondered what all the fuss inside me had been about. Nevertheless I experienced pain throughout the rest of the day, as if I had irritated the wound, perhaps poked a stick in it. I guess my perpetual sadness reminds me of my humanity, but my God does it make me miserable. No wonder I tried to shut it out all these years. An open question is what to do with it. The therapists talk about tolerance of negative emotions. OK fine, but be aware that when the core of your being is (seemingly) perpetual pain and sadness, it can be quite a bleak life indeed.
+
+Regarding learning to tolerate negative emotions, how long will I have to wait, a lifetime? On the other hand, while it's true that existance can be painful, what alternative is there? I've tried to think of myself in terms of multiple fake personas, and while they seem to fit and make sense sometimes, I can easily get confused nowadays about who I should be in a given situation. It's better to try to be myself and just stop thinking about how I appear to others.
