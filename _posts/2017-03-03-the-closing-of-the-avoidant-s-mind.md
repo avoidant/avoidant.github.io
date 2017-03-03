@@ -20,5 +20,4 @@ As a fallback I often find a thought I'd expressed earlier but try to customize 
 
 ## Fear
 
-It must be a protective mechanism against fear. I have no antidote, no solution to this recurring problem in my life other than to try to understand it. There are moments when it doesn't happen. For instance, the higher my confidence in a social situation, the less likely verbal constipation will strike. Anxiety also plays a role.
-
+It must be a protective mechanism against fear. I have no antidote, no solution to this recurring problem in my life other than to try to understand it. There are moments when it doesn't happen. For instance, the higher my confidence in a social situation, the less likely verbal constipation will strike. Anxiety also plays a role - anxiety about people's acceptance and about the way I sound or come across.
