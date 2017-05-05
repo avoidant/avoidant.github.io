@@ -1,6 +1,6 @@
 ---
 category: article
-published: false
+published: true
 layout: post-no-feature
 title: Regressing due to constant distraction
 description: >-
@@ -35,4 +35,4 @@ Oh fuck what did I just say, was all that was going through my mind. I didn't me
 
 Anyway these are the typical gaffes I make as an adult, which at the very least make me regret my actions and behavior, and cause me to maintain a sense of social shame throughtout my entire life. It's very hard to get over, and keeps me emotionally stunted in a way. The scenario above does clarify some aspects though; it's easy to see why I hid myself all these years, and why I enjoy solitude despite loneliness.
 
-
+It is utterly amazing how such incidents keep happening to me though... to what extent is my shame about them justified, and to what extent are they just in my head? If an outsider were viewing the scene, what would he think? It seems such questions are the best way to cope but they are incredibly hard to answer. No one (I think) overheard my comment besides us three, so it's not like I can ask an observer.
