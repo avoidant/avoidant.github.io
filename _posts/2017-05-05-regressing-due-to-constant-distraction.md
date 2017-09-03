@@ -11,7 +11,7 @@ tags: 'focus, losing'
 ---
 The funny thing about this avoidant business is that, if you don't or can't maintain yourelf in a kind of zone every day, seven days a week, the old habits are practically guaranteed to return.
 
-The old habit that gets me into the most trouble is the one I've had my whole life: ignoring my own feelings and trying to live "out of body," whether due to shame or not having the bandwidth or internal resource to deal with intensely painful or negative feelings. You see, this goode ship "my body and life" is an existance plagued by negative feelings and downright pain. These negative implications will only end when I end, and join the dear cosmos and nothingness.
+The old habit that gets me into the most trouble is the one I've had my whole life: ignoring my own feelings and trying to live "out of body," whether due to shame or not having the bandwidth or internal resource to deal with intensely painful or negative feelings. This goode ship "my body and life" is an existance plagued by negative feelings and downright pain. These negative implications will only end when I end, and join the dear cosmos and nothingness.
 
 To summarize, I travelled with my family for a week, then we had a guest over during the next week, who occupied my office. To work, I decided to go to Starbucks, especially as I didn't feel comfortable hanging around our small apartment. Our guest didn't seem to have much of an agenda (or much money) so she chose to hang around our apartment all day as well. The fact she's an attractive, blonde female in her early twenties added to my discomfort in spending every day at close quarters, especially since I'm married.
 
