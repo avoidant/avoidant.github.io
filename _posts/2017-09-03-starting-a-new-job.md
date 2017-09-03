@@ -4,8 +4,8 @@ published: false
 layout: post-no-feature
 title: Starting a new job
 description: >-
-  Once again I'm back in the saddle with a new job, but this time an activity I
-  hate doing
+  Once again I'm back in the saddle with a new job, but this time doing an
+  activity I hate
 tags: 'public speaking, fear'
 ---
 I'd been looking for a new job for a while now and had begun to give up hope. Nearly all the companies where I had applied during the past few years had rejected me, and since the jobs were ones for which I was qualified, I began to suspect that I had simply become too old for them.
@@ -21,5 +21,3 @@ Why did I put it on my profile? Because it's a competence and in this world you 
 Actually he also advised me to take a wait and see attitude with the client. It could be they have someone else to do the training part. On Friday I went in to the interview - actually a first meeting since my contract was already approved & signed. The client is a thin and fatigued-looking man who gets stuff done. For a half hour we stood around his chair in the office while he poured out information. I didn't come with a notepad but couldn't have written down anything anyway. I remember most of what he said before he left but he hired me on the spot in this interview/meeting.
 
 I suspect that I will eventually have to stand up in front of groups of 30 or 40 people, and honestly don't know how I'm going to do it. At least the agency guy seems to have some empathy for my plight ("seems," since I have not directly discussed with him what I disclose here).
-
-
