@@ -3,6 +3,10 @@ category: article
 published: false
 layout: post-no-feature
 title: Starting a new job
+description: >-
+  Once again I'm back in the saddle with a new job, but this time an activity I
+  hate doing
+tags: 'public speaking, fear'
 ---
 I'd been looking for a new job for a while now and had begun to give up hope. Nearly all the companies where I had applied during the past few years had rejected me, and since the jobs were ones for which I was qualified, I began to suspect that I had simply become too old for them.
 
