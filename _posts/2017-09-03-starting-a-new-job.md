@@ -1,6 +1,6 @@
 ---
 category: article
-published: false
+published: true
 layout: post-no-feature
 title: Starting a new job
 description: >-
@@ -27,7 +27,7 @@ The following week was typical of a consulting experience. Very little briefing 
 
 Luckily I worked at another organization that was going through the same painful transition to new processes exactly ten years ago and my memory still serves me correctly. So that's a plus. As well, if I haven't been doing anything till now to get over my condition, I'm forced at this moment to do so:
 
-- To not care what people think of my appearance or behavior
+- To somehow not care what people think of my appearance or behavior
 - To recover quickly from errors and mistakes made (whether social faux pas or wrong answers)
 - To understand that life in general, and especially my situation now, is all about getting down to business and not insisting on living in my privileged intellectual bubble, or dwelling on thoughts of pleasure to escape reality
 - To confront what makes me most uncomfortable in life, even as I have steadfastly refused to do this over nearly my entire lifespan
