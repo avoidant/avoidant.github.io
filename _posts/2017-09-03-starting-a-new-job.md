@@ -17,7 +17,7 @@ The only problem is, while the instructional designer part is a pleasure to exec
 
 Why did I put it on my profile? Because it's a competence and in this world you need to shout these from the rooftops. Unfortunately, the agency that hired me believes I can do it. In my first meeting with them I disclosed that the training part isn't for me. He told me the client wants someone who can do both. Fuck. But the money is too good to pass up.
 
-## First week on the job
+## Starting the job
 
 Actually he also advised me to take a wait and see attitude with the client. It could be they have someone else to do the training part, or much if not all of it can be shifted to eLearning. On Friday I went in to the interview - actually a first meeting since my contract was already approved & signed. The client is a thin and fatigued-looking man who gets stuff done. For a half hour we stood around his chair in the office while he poured out information. I didn't come with a notepad but couldn't have written anything anyway. I managed to remember much what he said and he mentioned I should come in on Tuesdays and Wednesdays.
 
