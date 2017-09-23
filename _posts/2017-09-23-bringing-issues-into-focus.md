@@ -4,9 +4,8 @@ published: true
 layout: post-no-feature
 title: Bringing issues into focus
 description: >-
-  It's already a tired mantra to repeat that confronting one's problems isn't
-  easy. But doing so is so different for every person it's not possible to
-  generalize.
+  "Confronting one's problems isn't easy" is such an overused phrase, yet its
+  meaning is so different for everyone.
 tags: 'pain, humiliation, confronting problems'
 ---
 It's now been three weeks since restarting work. By jumping back into this kind of social grind I'm asking for confrontation with those elements in me that I don't want to face. In fact, I've been avoiding them for all of my life in both conscious and unconscious ways.
@@ -46,3 +45,7 @@ It all sounds pretty warped and ugly doesn't it? It's all meant to confuse mysel
 Of course it would really help to know what caused this issue so I can get over it (heal) but of course some things aren't meant to be. Every day when I head into that consultant box (our shared office, which is really just a meeting room reserved for "externals"), I have to steel myself into saying, "I will not walk away. I will not walk away. I will stay mentally and emotionally present despite risks of rejection or even harm." All my life I followed another pattern, trying not to be mentally and emotionally present and quitting at various junctures.
 
 Now my life is a mess, so as I said earlier, what do I have to lose by undergoing the potentially real harm and pain of social interactions?
+
+## Staying put
+
+The hardest thing I've ever had to do in my life is to simply stay put in some situations. That is, stay present both physically and mentally. What's so simple for the unafflicted masses, who have been able to gain their experience by undergoing significantly less pain than me in uncomfortable situations, is for me scary and very, very difficult. To remain true to myself and stay honest when the perceived risks are so high, is what forges character in a person. But this is why I have little such stuff. It's also why they nicknamed avoidant personality disorder the cowardice disease.
