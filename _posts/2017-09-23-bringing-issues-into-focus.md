@@ -11,7 +11,7 @@ tags: 'pain, humiliation, confronting problems'
 ---
 It's now been three weeks since restarting work. By jumping back into this kind of social grind I'm asking for confrontation with those elements in me that I don't want to face. In fact, I've been avoiding them for all of my life in both conscious and unconscious ways.
 
-What do I have to lose now by facing these? Last week I felt like quitting - not only because of the social stress but also quite frankly I'm not sure I'm able to even successfully do the job for the client in the small amount of time I'm given. But I decided to hang on, even if I have to do so by my fingernails and with much trepidation. I owe it to myself just this once in my sorry fucking life to open myself up to the scrutiny, criticism, and whatever the hell else may come my way from other people. Just to see what happens.
+What do I have to lose now by facing these? Last week I felt like quitting - not only because of the social stress but also quite frankly I'm not sure I'm able to even successfully do the job for the client in the small amount of time I'm given. But I'm deciding to hang on, even if I have to do so by my fingernails. I owe it to myself just this once in my sorry fucking life to open myself up to the scrutiny, criticism, and whatever the hell else may come my way from others. Just to see what happens.
 
 Because you see, this is what I've been avoiding all my life. It's the ultimate denouement of a life of pure loss. Or rather loss of opportunities and satisfaction. A life of always hunkering down and running away. I'm firmly in the middle age of my lifespan, so what do I have to lose now?
 
