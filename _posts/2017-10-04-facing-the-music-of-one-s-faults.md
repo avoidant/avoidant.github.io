@@ -1,6 +1,6 @@
 ---
 category: article
-published: false
+published: true
 layout: post-no-feature
 title: Facing the music of one's faults
 description: >-
@@ -39,4 +39,4 @@ So it seems I have already made two enemies of people I need help from to do my 
 
 ## How I cope
 
-There aren't many options for me to cope. Being who I am, I will suffer and feel very uncomfortable in their presence. From this vantage point, I want to show them how I could care less about what they think of me, and by extension, how much stonger I really am, compared to how I may appear. As my life in social settings is an unending sequence of pain and discomfort, there are no good options for dealing with these situations; no resolutions followed by peace. Just an ongoing, low-grade pain both when contemplating the memory of meeting them, and having to confront them in my daily life.
+There aren't many options for someone like me to cope. Being who I am, I will suffer and feel very uncomfortable in their presence. From this vantage point, I want to show them how I could care less about what they think of me, and by extension, how much stonger I really am, compared to how I may appear. As my life in social settings is an unending sequence of pain and discomfort, there are no good options for dealing with these situations; no resolutions followed by peace. Just an ongoing, low-grade pain both when contemplating the memory of meeting them, and having to confront them in my daily life.
