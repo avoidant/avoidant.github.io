@@ -35,7 +35,7 @@ During my meeting with this topshot manager (in his office) he appeared to be ve
 
 As the meeting began I tried to explain (by way of introduction) what we were trying to accomplish (as I don't like meeting with managers on the client side who are constantly wondering why I'm wasting their time). His entire demeanor reflected somewhat that we were taking up his time. This put me off further and at times when I spoke he simply cut me off. Now, this is about the rudest anyone has ever been to me, either at work or outside of it, and I started to feel slightly threatened. At one point I continued to talk without respectful silence as he cut me off. This is another person with whom I want as little to do as possible, because it shows that no matter how nice I try to be, there's no pleasing some people (for whatever reason).
 
-So it seems I have already made two enemies of people I need help from to do my job. For me, this is the "worse that can happen" as a consequence of my social awkwardness and issues. 
+So it seems I have already gotten two people to dislike me, people from whom I need help to do my job. For me, this is the "worse that can happen" as a consequence of my social awkwardness and issues. 
 
 ## How I cope
 
