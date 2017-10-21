@@ -1,6 +1,6 @@
 ---
 category: article
-published: false
+published: true
 layout: post-no-feature
 title: Dark patches and realizations
 description: >-
@@ -30,5 +30,4 @@ All this strangely reminds me of a movie I once watched called _Vengo_, about so
 
 What else is my body trying to tell me? That there's no reassurance in this world, reassurance I need and crave. Working in a room full of people, I cannot nor ever will get lasting reassurance _from them_ that I'm just ok as a person. Sure, I will get it temporarily when having good interactions with them, but there's nothing lasting. After a good day at the office I will come in the next and feel doubly insecure and sad.
 
-This is what you call a "permanent state of affairs." It's what I've avoided seeing my whole life (with good reason obviously). Again, there is no resolution and no answers. It's what I must cope with on a daily basis, as sure as I live and breathe. This is not the message society sends us (i.e., happy consumerism; you can be all that you want to be, etc.) but it's the message from inside of me. It's frightening and I still don't know how to deal with it.
-
+This is what you call a "permanent state of affairs." It's what I've avoided seeing my whole life (with good reason). Again, there is no resolution and no answers. It's what I must cope with on a daily basis, as sure as I live and breathe. This is not the message society sends us (i.e., happy consumerism; you can be all that you want to be, etc.) but it's the message from inside of me. It's frightening and I still don't know how to deal with it.
