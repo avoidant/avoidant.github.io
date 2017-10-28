@@ -3,8 +3,8 @@ category: article
 published: false
 layout: post-no-feature
 title: A legacy of no emotional bonding
-description: ''
-tags: ''
+description: Parents are key to understanding your own avoidance symptoms.
+tags: 'indifference, emotion'
 ---
 Yesterday I came to the realization that nothing's wrong with me, but something's wrong with way I process emotions. It's like a light bulb went off and suddenly I felt relaxed knowing an answer I'd spent three decades seeking.
 
