@@ -1,6 +1,6 @@
 ---
 category: article
-published: false
+published: true
 layout: post-no-feature
 title: A legacy of no emotional bonding
 description: Parents are key to understanding your own avoidance symptoms.
@@ -20,5 +20,8 @@ My realization is so stunningly simple I can only wonder at how I never arrived 
 
 In our house emotions were a sign of weakness. Right now I can't go into all the ways this was so, but my parents certainly never showed it and made me to understand that mine were unimportant. Basically I was raised by two abnormal people, and this is the reason one part of me has little to no contact with the other part. Today, most of my existence is spent with a feeling of not only emptiness but a dull pain inside, as if something was never resolved. I still cannot access this most of the time. One learns to access these feelings at an early age through the compassion of others, but what if one never or rarely received compassion? What if no one cared about how you felt, and didn't even want to be bothered with that shit?
 
+## Hope of reconciliation?
 
+Today it takes me a lot of courage to write or even think about this. Here I am, writing out all this stuff on the internet. What will people think? Likely they will be indifferent, but the society I grew up in shamed you for moral weakness or "character flaws." That is to say, the adults did this (as in my parents and teachers). 
 
+But writing and thinking all this makes me realize the daunting task I'm faced with. All the Youtube therapists assure me that healing is possible, but is it really? I didn't have just one indifferent parent but two. There were practically no adults who even remotely filled the role that my parents should have. And this week came my second realization: there is no hope for "reconciliation," a state I'd longed for as long as I've suffered, because this will be lifelong for me. My only hope is to progressively learn about my own emotions and accept they are a part of me. 
