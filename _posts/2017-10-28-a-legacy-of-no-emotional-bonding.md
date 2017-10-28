@@ -1,0 +1,20 @@
+---
+category: article
+published: false
+layout: post-no-feature
+title: A legacy of no emotional bonding
+description: ''
+tags: ''
+---
+Yesterday I came to the realization that nothing's wrong with me, but something's wrong with way I process emotions. It's like a light bulb went off and suddenly I felt relaxed knowing an answer I'd spent three decades seeking.
+
+It had been a tough week in terms of social pressures at work and at home, but throughout it all I'd kept a perspective on how my parents used to treat me. My father, a tough, stern, and successful doctor, had always mocked me when I expressed negative feelings. My earliest memory of him is when he came home one day after work and saw me in my playpen. Instead of hugging me or acting normally, he teased me about my efforts to talk. First he asked me a question (don't remember but maybe how was I doing or how was my day), and when I mispronounced a word he started teasing me openly. I remember crying and he teased me even louder and walked away. He must have realized I was different than him, a sensitive person unlike he was. This might have disappointed him in some way because he often acted like this. I remember no physical contact with him unless it was corporal punishment.
+
+My mother was always distant, in her own world. As a toddler I remember a close relationship but somehow, beyond telling me stories, she never wanted much physical contact either. I can only imagine how she treated me as a crying baby. One memory that stands out was when I was older, maybe six or seven. I was playing at the end of the street and some older boys started teasing me. I was very sensitive (still am) and started crying when I believe they took my bike away. (I can only imagine how easy a target I was for bullies, the way I broke down often.)
+
+I ran home, distraught, and found her reading on the couch in the office. She instantly showed concern and got up and walked with me to the end of the street. My bike was still on the ground but the boys were nowhere to be found. I felt better at the time and discovered I could rely on her when in trouble. Of course that was the only time I remember her ever helping me in conflicts with others. As a preteen when I would get bullied in school, she became even more passive and indifferent.
+
+## The wall between emotions and the mind
+
+
+
