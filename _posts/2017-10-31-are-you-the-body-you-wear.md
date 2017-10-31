@@ -3,6 +3,10 @@ category: article
 published: false
 layout: post-no-feature
 title: Are you the body you wear?
+description: >-
+  Many take a centered feeling of being squarely in one's body for granted. For
+  me, it's a struggle in accepting a negative perception of self.
+tags: 'confidence, acceptance, feelings'
 ---
 Last Sunday a friend invited us to an art exposition. It was halfway across town and took place in the small attic floor of an apartment building. I don't really pay attention to art anymore (after having had deeper interest when in my 20s) but went in order to appease my wife. There's much more interesting things to see - how about an exposition about the Celts in Europe? But good; art _can_ be interesting; it's just that so much of it is meaningless (or humorous) these days, i.e., it doesn't really evoke any strong feelings one way or another.
 
@@ -16,4 +20,4 @@ The small room was painted white and it doubled as the atelier of the artist. In
 
 Standing around the room were other visitors. They were generally much older than me and spoke with each other and sipped wine. My wife and our friend knew some people scattered off, leaving me alone. I moved among the pieces and stood beside a few, examining them. I was self-conscious, especially when I questioned whether I really belonged there, with those people. I exchanged a few words with the artist, asking the obvious questions about her process for creating the objects. But most of the time I was alone. I couldn't go up to anyone and strike up a conversation because I felt I had nothing in common with them. Indeed many were artists themselves, and it's just not my world.
 
-Suddenly I started losing confidence as I came to the realizations. A dark feeling of worthlessness emerged; it had a physical quality, almost as if I were wounded.
+Suddenly I started losing confidence as I came to these realizations. A dark feeling of worthlessness emerged; it had a physical quality, almost as if I were wounded. Although I can't see myself, I must be giving off an aura of low confidence because I sense it in others as they interact with me. It's all about my poor body, my poor body that was denied and denied the possibility to express its natural feelings, that gives me so much trouble today. At times I feel tears well up in my eyes and at such moments I just can't let it happen. What will others think as they see my misty eyed as I walk among them?
