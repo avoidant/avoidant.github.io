@@ -1,6 +1,6 @@
 ---
 category: article
-published: false
+published: true
 layout: post-no-feature
 title: A childhood memory
 description: Listening to yourself means finding new meaning in old memories.
@@ -22,4 +22,6 @@ Anyway one day when I was 12, I prayed and asked God why he allowed all this to 
 
 Kids often act out their inner feelings so this memory leads me to wonder whether it wasn't an expression of my disappointment in my own parents. Somehow I "ran away" that day when I threw all those symbols in the garbage. My extreme disappointment with the higher authority manifested itself as rage against God. I had held up my end of the bargain but he hadn't. In a way all this reflects my entire experience with people in general. They will always abandon and leave me no matter how well I hold up my end of the bargain or despite my faith in them. It's all just a big shell game with a selfish person, another being who is greater than you, but like an asteroid circling the sun and noticing the sun is indifferent, barely seems to notice you much less understand your needs.
 
-The worse thing is, they leave you without even realizing they're doing it. They are higher beings and I am ancient man in relation to the gods, who worked tirelessly to appease them with sacrifices but their orbits and affairs were simply in a higher world.
+The worst thing is, they leave you without even realizing they're doing it. They are higher beings and I am ancient man in relation to the gods, who worked tirelessly to appease them with sacrifices but their orbits and affairs were simply in a higher world.
+
+People are just inherently selfish, no matter their relation to you, and there's no reason I shouldn't be the same. My faith and attachment to one person will ultimately be disappointed and there's no point in having a deep attachment to anyone. Yes it's all a cynical game where we all try to get advantages out of the other.
