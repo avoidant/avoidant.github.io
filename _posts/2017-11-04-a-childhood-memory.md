@@ -24,7 +24,7 @@ Kids often act out their inner feelings so this memory leads me to wonder whethe
 
 Another memory comes to mind of my father and I at the beach. He bade me get on his shoulders as we headed into the roiling ocean. I must have been 4 or 5 and was flattered and enthusiastic about the attention he suddenly showed me. He crouched down as I sat on his slick neck and shoulders and we both stood tall and proud as we headed out to sea. The level of the sea got deeper and deeper and soon the waves were crashing against my face. I tried to breathe and started screaming as, whale like, he walked forward into the ocean and the top of his head sank beneath waves and soon, mine too. I absolutely panicked and struggled to loose myself from the grip of his arms on my legs but to no avail. He had my legs clamped tightly and there was no hope of getting to air.
 
-I was riding on the shoulders of a god who moved majestically in whichever direction it pleased him, and didn't notice my struggles, even to stay alive.
+I was riding on the shoulders of a god who moved majestically in whichever direction it pleased him, and who didn't notice my struggles, even if I was trying to stay alive.
 
 When I asked him about this years later he said he was only joking.
 
