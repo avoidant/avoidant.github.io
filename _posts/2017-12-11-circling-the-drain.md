@@ -16,4 +16,6 @@ I hate working there anyway. It's an unorthodox project with an unorthodox clien
 
 I guess what's important to mention is my inner emotional state. I feel rotten, and I really mean fucking rotten. When nothing goes my way, when everything and everyone turns against me (mostly anyway), how am I supposed to feel. In the last couple of years - and I don't know exactly when, how, or why - the world slowly turned against me. Whereas, 10 years ago things used to (mostly) go my way it seemed, nowadays I can't even hold down a job despite being more skilled and knowledgeable than ever. All my projects in the past years seemed to end in failure. My relationship with my wife and daughter isn't the best in the world (everyone seems to think being a stepfather is easy when it's actually a damned difficult role).
 
+Even worse than all the above, and what really contributes to the hopelessness, is the knowledge that sitting in the pit of myself are the same emotional dysfunctions that plagued me as a child. They are now coming back to haunt me... for example, my relationship with my daughter is cold - my parents never showed warmth so how can I show her that? Actually my wife and daughter treat me more as a big brother than a father figure, the exact opposite outcome than I had wished.
+
 
