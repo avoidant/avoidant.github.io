@@ -6,6 +6,7 @@ title: More realizations
 description: >-
   Certain events like going out in a group to do some activity give me
   perspective on problems dogging me my whole life.
+tags: 'strategies, coping, exposure'
 ---
 It's been a while since I posted here. I was let go from my previous job so spent some of the previous months learning how to code and want to launch an online business rather than put up with a normal job and its social interactions. The last job was literally a joke (I had been hired for a consulting position where there really was no need for my skills in the first place, so lose-lose). It's almost as if fate has a hand in steering me away from normal jobs.
 
@@ -19,4 +20,4 @@ As a middle aged person, I find myself thinking of all the things I would have l
 
 I feel age has tempered these feelings somewhat and made me more resilient, but they haven't gone away. Last weekend at the range I had moments of intense embarassment and shame, and felt no one wanted contact with me (feelings of being an outcast), although the behavior of others should have had no impact whatsoever on me or my life.
 
-
+It's been a steep price to pay for my having my problem, and moreover there's little I can do, in terms of gaining experience, to solve it. The only mitigation is developing coping strategies that can allow me to engage in such activities to a minimum extent.
