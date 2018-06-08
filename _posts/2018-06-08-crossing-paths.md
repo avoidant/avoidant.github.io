@@ -1,6 +1,6 @@
 ---
 category: article
-published: false
+published: true
 layout: post-no-feature
 title: Crossing paths
 description: The extent of my guilt is sometimes farther than I can imagine
@@ -29,3 +29,5 @@ At the moment I feel much internal turmoil, as if I'd been rejected or slapped i
 This is the way I've felt treated by others all my life, so this of course fits the pattern. As a person I'm distant and reserved with people because I fear rejection (and indeed get a lot of it somehow). The only person who is dependable in this life, whom I can really count on is me. I'm the only one who matters. Everyone else just comes and goes out of my life, as their needs/wants take them. I can truly say my wife has built her life on mine so she's here (though for how long no one can say). And you can say I've staked my life on hers. But everyone else just comes and goes and seems their opinions and behavior don't really matter. It's up to me to adjust to this reality, not the other way around, for I can do nothing about it.
 
 Just like I can't do anything about my aging body, my greater propensity to gain weight, my yellowing teeth and slower reflexes. How much does all this really matter compared to my own satisfaction and happiness?
+
+Just as I can do nothing about others' behavior, I can do nothing about how fast I learn and how successful I am. Sure I can influence it, but I must also tackle a mountain of personal issues that succeed in blocking me and causing me to give up. But I cannot turn an "on" switch to become successful or attractive.
