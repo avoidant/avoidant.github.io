@@ -18,6 +18,14 @@ Needless to say I was (and am) very disappointed. Is it not human to acknowledge
 
 I guess that clarifies her and my relationship after all. I feel bad inside somehow but there's nothing I can do about it. Maybe I should have yelled hello, but given my own insecurities I didn't. Therefore part of the blame remains with me I guess.
 
+### Analyzing things to death is necessary
 
+If I accept my humanity I shouldn't be too bothered by all this in fact. If there are guilty parties here, she shares as much of the blame as me. It would have been so simple to look at me rather than steadfastly ignoring me. A clear-headed person could see all this and accept it.
 
+I on the other hand feel rejection. What does this say about me as a person (both for my insecurities and general attractiveness). I am now 48 and way past youth. No wonder she wouldn't be interested in me. Speaking of her, is this some standard behavior she has with all clients? All this is hard to handle - though I believe the easiest part will be going back there for a haircut and pretending none of this happened.
 
+At the moment I feel much internal turmoil, as if I'd been rejected or slapped in the face. I can tell you the only reason I didn't say hello to her was that I didn't know what to do in that situation. She was purposefully not staring at me and it's true we have a "professional" relationship. This left me unsure. My pain comes from the fact that perceived rejections confirm my own inner bias that I'm inherently an ugly, uninteresting man, the kind of guy you want as little to do with as possible. 
+
+This is the way I've felt treated by others all my life, so this of course fits the pattern. As a person I'm distant and reserved with people because I fear rejection (and indeed get a lot of it somehow). The only person who is dependable in this life, whom I can really count on is me. I'm the only one who matters. Everyone else just comes and goes out of my life, as their needs/wants take them. I can truly say my wife has built her life on mine so she's here (though for how long no one can say). And you can say I've staked my life on hers. But everyone else just comes and goes and seems their opinions and behavior don't really matter. It's up to me to adjust to this reality, not the other way around, for I can do nothing about it.
+
+Just like I can't do anything about my aging body, my greater propensity to gain weight, my yellowing teeth and slower reflexes. How much does all this really matter compared to my own satisfaction and happiness?
