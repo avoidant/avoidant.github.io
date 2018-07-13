@@ -18,4 +18,10 @@ What I was missing for so long in the past was the technique of mindfulness. Yes
 
 ### The here and now
 
-Learning to face my feelings in all kinds of situations is h
+Mindfulness is the path to helping me face my feelings in all kinds of situations but it's clear that just a few years ago I wouldn't have been able to do this. I remember my first visit with a therapist at around age 20 and at that point I could make a little progress with my depression and anxiety but I simply wasn't ready to accept my own feelings. They were terrifying at the time - though they are less so now. And so it's understandable that it's taken me so long to get to this point.
+
+My biggest concern of course, when focusing on the here and now is what others will think of me. It's strange because I care less than ever how other see me, and yet it's an impulse in me that prompts me to all kinds of coping behavior. To face my feelings I have to somehow put this concern aside but it's very hard to do and I slip back often to old ways. 
+
+And confronting my feelings head on is really like reliving my childhood. It's amazing that in my late forties I still feel like a child in some situations, with the same unrealistic perceptions and expectations. The trick is to try to live with these, or put another way to see the world through "those" eyes and try to work through them. It goes to show that there are no quick or easy solutions to such a mess.
+
+Sometimes I consider seeing a therapist again but in a way I feel like, were I to go to one, I would be able to anticipate all their statements in every situation. I've been to many over the years and in the end paying for someone to listen to you is no substitute to you actually doing the work.
