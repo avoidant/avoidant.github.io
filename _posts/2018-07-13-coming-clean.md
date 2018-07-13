@@ -1,6 +1,6 @@
 ---
 category: article
-published: false
+published: true
 layout: post-no-feature
 title: Coming clean
 description: >-
@@ -24,4 +24,6 @@ My biggest concern of course, when focusing on the here and now is what others w
 
 And confronting my feelings head on is really like reliving my childhood. It's amazing that in my late forties I still feel like a child in some situations, with the same unrealistic perceptions and expectations. The trick is to try to live with these, or put another way to see the world through "those" eyes and try to work through them. It goes to show that there are no quick or easy solutions to such a mess.
 
-Sometimes I consider seeing a therapist again but in a way I feel like, were I to go to one, I would be able to anticipate all their statements in every situation. I've been to many over the years and in the end paying for someone to listen to you is no substitute to you actually doing the work.
+Sometimes I consider seeing a therapist again but in a way I feel like, were I to go to one, I would be able to anticipate all their statements in every situation. I've been to many over the years and in the end paying for someone to listen to you is no substitute to actually doing the work yourself.
+
+
